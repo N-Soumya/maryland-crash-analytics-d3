@@ -2,7 +2,7 @@
 
 An interactive D3.js dashboard that tells a data-driven story about traffic crashes in Montgomery County, Maryland: when they happen, where, under what conditions, and how severe they are.
 
-**Live demo:** [add link after enabling GitHub Pages]
+**Live demo:** https://n-soumya.github.io/maryland-crash-analytics-d3/
 
 ![Dashboard overview](images/dashboard-overview.png)
 
