@@ -4,7 +4,7 @@ An interactive D3.js dashboard that tells a data-driven story about traffic cras
 
 **Live demo:** [add link after enabling GitHub Pages]
 
-![Dashboard overview](images/[screenshot-name].png)
+![Dashboard overview](images/dashboard-overview.png)
 
 ## Views
 - **Mosaic chart:** lighting conditions vs. injury severity. Shows that poor light at dawn and dusk is linked to higher injury rates.
